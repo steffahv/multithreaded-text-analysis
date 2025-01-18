@@ -8,6 +8,6 @@ This project explores the performance of a multithreaded text analysis and TF-ID
 
 - Julia
 - Paralell Computing
-- TD-IDF score
+- TF-IDF score
 - Text Analysis
 
